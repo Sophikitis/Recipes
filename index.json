@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "acme/private-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "https://github.com/Sophikitis/Recipes",
+        "origin_template": "{package}:{version}@github.com/Sophikitis/Recipes:main",
+        "recipe_template": "https://api.github.com/repos/Sophikitis/Recipes/contents/{package_dotted}.{version}.json"
+    }
+}
