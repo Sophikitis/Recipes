@@ -1,12 +1,14 @@
 {
-  "manifests": {
-    "hcnx/datatable-server-side-bundle": {
-      "manifest": {
-        "bundles": {
-          "Hcnx\\DatatableProcessingBundle\\DatatableProcessingBundle": [ "all" ]
-        }
-      },
-      "ref": "68e412bd55f707917c0ce9d566288c6cd3fcdb80"
-    }
+  "recipes": {
+    "hcnx/datatable-server-side-bundle": [
+        "1.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "https://github.com/Sophikitis/Recipes",
+    "origin_template": "{package}:{version}@github.com/Sophikitis/Recipes:main",
+    "recipe_template": "https://api.github.com/repos/Sophikitis/Recipes/contents/{package_dotted}.{version}.json"
   }
 }
