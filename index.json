@@ -1,10 +1,10 @@
 {
     "recipes": {
-        "acme/private-bundle": [
-            "1.0"
+        "hcnx/datatable-server-side-bundle": [
+            "1.0.2"
         ]
     },
-    "branch": "master",
+    "branch": "main",
     "is_contrib": true,
     "_links": {
         "repository": "https://github.com/Sophikitis/Recipes",
