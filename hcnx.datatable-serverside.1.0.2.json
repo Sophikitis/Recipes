@@ -3,8 +3,10 @@
     "hcnx/datatable-server-side-bundle": {
       "manifest": {
         "bundles": {
-          "Hcnx\\DatatableProcessingBundle\\DatatableProcessingBundle": ["all"]
-        },
-        "aliases": ["hcnx-dt"]
+          "Hcnx\\DatatableProcessingBundle\\DatatableProcessingBundle": [ "all" ]
+        }
+      },
+      "ref": "68e412bd55f707917c0ce9d566288c6cd3fcdb80"
+    }
   }
 }
